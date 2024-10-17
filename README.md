@@ -1,1 +1,5 @@
 # Garbage-Classification
+
+In today's rapidly developing world, waste management has become an important issue in terms of public health and environmental safety. An important part of waste management is waste segregation, which is the process of dividing waste into different types of processing and disposal. Traditional waste classification methods mostly rely on manual analysis, which is ineffective, labor-intensive and error-prone. However, as technology advances, especially in the field of artificial intelligence (AI) and machines, new opportunities for implementation and improvement of the destruction system have emerged as the work continues. A promising technology is the application of neural networks, one of the artificial intelligence algorithms that arise from the structure and function of the human brain.
+This project focuses on the use of neural networks in waste classification. We aim to create a system that can classify waste correctly by taking advantage of the power of neural networks, thus making the waste
+separation process more efficient and effective
